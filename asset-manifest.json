@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/imanh/static/css/main.26273785.css",
+    "main.js": "/imanh/static/js/main.aa78c947.js",
+    "static/js/787.5c1c22b3.chunk.js": "/imanh/static/js/787.5c1c22b3.chunk.js",
+    "index.html": "/imanh/index.html",
+    "main.26273785.css.map": "/imanh/static/css/main.26273785.css.map",
+    "main.aa78c947.js.map": "/imanh/static/js/main.aa78c947.js.map",
+    "787.5c1c22b3.chunk.js.map": "/imanh/static/js/787.5c1c22b3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26273785.css",
+    "static/js/main.aa78c947.js"
+  ]
+}

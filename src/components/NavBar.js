@@ -50,8 +50,8 @@ export const NavBar = () => {
             </Nav>
             <span className="navbar-text">
               <div className="social-icon">
-                <a href="#" target="_blank"><img src={navIcon1} alt="" /></a>
-                <a href="https://www.facebook.com/anhhq2002" target="_blank"><img src={navIcon2} alt="" /></a>
+                <a href="https://www.linkedin.com/in/hoang-quoc-anh-b11a0027a/" target="_blank"><img src={navIcon1} alt="" /></a>
+                <a href="https://www.facebook.com/profile.php?id=100093681425075" target="_blank"><img src={navIcon2} alt="" /></a>
                 <a href="https://github.com/akaisaiza" target="_blank"><img src={navIcon3} alt="" /></a>
 
               </div>
